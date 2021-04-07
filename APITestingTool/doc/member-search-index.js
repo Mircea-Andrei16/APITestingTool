@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"construction","c":"FileTypeFilter","l":"accept(File)","u":"accept(java.io.File)"},{"p":"construction","c":"FileTypeFilter","l":"FileTypeFilter(String, String)","u":"%3Cinit%3E(java.lang.String,java.lang.String)"},{"p":"construction","c":"FileTypeFilter","l":"getDescription()"}];updateSearchResults();
